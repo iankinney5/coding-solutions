@@ -1,0 +1,19 @@
+{
+  "name": "coding-solutions",
+  "version": "1.0.0",
+  "description": "This repo serves as a place to store commented solutions for apprentices and junior engineers at McKinsey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iankinney5/coding-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iankinney5/coding-solutions/issues"
+  },
+  "homepage": "https://github.com/iankinney5/coding-solutions#readme"
+}
