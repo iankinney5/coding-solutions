@@ -1,6 +1,7 @@
 # Coding Solutions for LeetCode, HackerRank, etc.
 
-This repo serves as a place to store commented solutions for apprentices and junior engineers at McKinsey. 
+This repo serves as a place to store commented coding solutions for apprentices and junior engineers at McKinsey. <br />
+All solutions and descriptions added to this repo should be stored in the correct folder to show where the questions came from.
 
 ## Steps for adding new solutions
 
