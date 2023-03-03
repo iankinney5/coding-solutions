@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58e92618-910a-4918-bb3f-76ede53e97cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 1/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 1/solution.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 2/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Spiral Matrix 2/solution.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MVcjoIRSgUbzwFp9fe5Bxr8VFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58e92618-910a-4918-bb3f-76ede53e97cf" name="Changes" comment="" />
+      <created>1677856327693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677856327693</updated>
+      <workItem from="1677856331857" duration="2594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

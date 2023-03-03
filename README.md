@@ -12,13 +12,13 @@ This repo serves as a place to store commented solutions for apprentices and jun
 
 # Setup for running tests
 
-```npm i jest --save-dev```
-Installs jest on your local machine
-```npm i jest-cli -g```
-Adds jest CLI globally
-```npm init```
-Adds package.json file, hit enter through configuration. 
-```jest```
-Runs test suite
+```npm i jest --save-dev``` <br />
+Installs jest on your local machine <br />
+```npm i jest-cli -g``` <br />
+Adds jest CLI globally <br />
+```npm init``` <br />
+Adds package.json file, hit enter through configuration. <br />
+```jest``` <br />
+Runs test suite <br />
 
 
